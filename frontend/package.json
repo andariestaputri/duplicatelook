@@ -1,0 +1,11 @@
+{
+  "name": "duplicatelook",
+  "version": "1.0.0",
+  "description": "Landing page and booking system for Pilates Studio Yogyakarta",
+  "author": "Andariesta",
+  "license": "MIT",
+  "scripts": {
+    "start": "echo 'No server needed for static site'",
+    "build": "echo 'No build step required'"
+  }
+}
