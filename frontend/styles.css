@@ -61,3 +61,32 @@ a {
 .cta-button:hover {
   background-color: #d4883e;
 }
+/* About Section */
+.about {
+  padding: 80px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.about p {
+  font-size: 1.1rem;
+  margin-bottom: 30px;
+  color: #555;
+}
+
+.about img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
